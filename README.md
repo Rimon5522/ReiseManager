@@ -1,1 +1,28 @@
-# ReiseManager
+# -ReiseManager-
+------------------------------------------------------------
+# 1.Beginn der Planung
+- Erstmals da ich noch nicht so erfahren bin habe ich mir überlegt eine Mischung aus allem zu machen was wir bisher gelernt haben. So kann man auch zeigen das man alles verstanden hat oder man versteht eher selbst, was man noch nicht beherrscht. An sich ist es eine gute Idee weil so kann man sich endlich richtig auseinander setzen mit den ganzen Themen und üben. Also kam ich auf die Idee ein Programm zu schreiben wo man Reisetickets kaufen kann.
+-------------------------------------------------------------
+# 2.Was soll alles im Programm enthalten sein (Grundgerüst)
+- Gerne würde ich im Programm ein Loggin haben zum anmelden. Dann eine Personen Abfrage. Zudem soll gefragt werden anhand von drei festgelegten Reisezielen, welches man aussuchen möchte. Dann soll gefragt werden wie viele Personen mitkommen sollten und wie alt diese Personen seien. Da ich auch etwas einbauen möchte wie zum Beispiel Rabatt für unter 18 Jährige. Im Anschluss soll eine Rechnung erstellt werden anhand wieviele Personen fliegen.
+- Gerne würde ich dazu auch hinzufügen ob man Reisegepäck oder Koffer dabei hat was dazu addiert wird. Ein Wetterbericht für den Zeitraum wo man fliegt soll auch angegeben werden. Zudem eventuell die Auswahl an einer Sitzmöglichkeit oder Zuweisung der Flugsitzplätze.
+---------------------------------------------------------------
+# Tag 1 
+- Der erste Tag war schwierig, da ich mich um den halben Tag bemüht habe das Github einzurichten. Es war eine Fehlermeldung da die ich leider nicht wegbekommen habe. Über Visual Studio wollte ich mich mal austesten und habe es mit den Git verbunden was sich am Ende als Fehler herausgestellt hat. Also bekam ich Hilfe von den Kollgen aus der Gruppe, die eine Stunde Zeit mit mir investiert haben wofür ich Ihnen sehr dankbar bin. Denselben Fehler wieder entfernen würde ich ein zweites mal alleine bedenklich nicht alleine schaffen.
+- Jetzt konnte ich anfangen zu programmieren. Also fing ich mit den an was ich einigermaßen beherrscht habe. Das loggin habe ich eingerichtet, die Personenabfrage erstellt. Da ich noch etwas Grün hinter den Ohren bin und ich das als Lernphase zum üben ausnutze, übte ich und gab mein bestes.
+- Da wir solche ähnliche Aufgaben auch zuvor erstellt haben, konnte ich mich auch bei Problemen dort schlau machen. 
+-------------------------------------------------------------
+# Tag 2 
+- Am zweiten Tag hatte ich auch etwas Probleme mit den Git da ich versucht habe mehrere Klassen zu erstellen und ich hab stattdessen mehrere Projekte geöfnnet. Als dies erledit wurde erstellte ich die Rechnung auch anhand der Programme die wir gemacht haben. Es ist noch nicht perfekt aber es erfüllt erstmal seinen Zweck.
+- Heute kam ich auch auf die Ideen noch weitere Sachen hinzuzufügen wie Koffe, Sitzplatz Auswahl etc..
+- Heute habe ich auch gelernt wie man weitere Klassen im selben Program macht und nun muss ich lernen diese zu verbinden.
+- Zum Ende des Tages verbrachte ich es damit zu überlegen und zu probieren wie ich das mit den Wetterbericht machen könnte.
+-------------------------------------------------------------
+# Tag 3 
+- Heute ist der Tag wo ich mich der Dokumentation gewidmet habe. Ich habe gelernt das man über ReadMe auch schreiben und dokumentieren kann.
+- Paar Befehle habe ich heraus gefunden mal schauen was sich noch alles finden lässt.
+- Nun gegen Ende des Tages wird noch etwas programmiert und geforscht wie man vielleicht etwas machen kann.
+-
+-------------------------------------------------------------
+Tag 4
+-
