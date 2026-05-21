@@ -22,7 +22,8 @@
 - Heute ist der Tag wo ich mich der Dokumentation gewidmet habe. Ich habe gelernt das man über ReadMe auch schreiben und dokumentieren kann.
 - Paar Befehle habe ich heraus gefunden mal schauen was sich noch alles finden lässt.
 - Nun gegen Ende des Tages wird noch etwas programmiert und geforscht wie man vielleicht etwas machen kann.
--
+- Eben habe ich das mit der Sitzwahl Auswahl erledigt auch mit etwas Hilfe von Chat gpt weil ich nicht heraus gefunden habe wie man dafür sorgt das der eine Sitzplatz nicht mehr angezeigt werden soll.
+- Zudem habe ich hinzugefügt ob man Handgepäck dabei hat und oder ein Koffer und falls ja, dass dieses zur Rechnung dazu addiert wird.
 -------------------------------------------------------------
 Tag 4
 -
