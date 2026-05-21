@@ -12,4 +12,17 @@
 - Jetzt konnte ich anfangen zu programmieren. Also fing ich mit den an was ich einigermaßen beherrscht habe. Das loggin habe ich eingerichtet, die Personenabfrage erstellt. Da ich noch etwas Grün hinter den Ohren bin und ich das als Lernphase zum üben ausnutze, übte ich und gab mein bestes.
 - Da wir solche ähnliche Aufgaben auch zuvor erstellt haben, konnte ich mich auch bei Problemen dort schlau machen. 
 -------------------------------------------------------------
-
+# Tag 2 
+- Am zweiten Tag hatte ich auch etwas Probleme mit den Git da ich versucht habe mehrere Klassen zu erstellen und ich hab stattdessen mehrere Projekte geöfnnet. Als dies erledit wurde erstellte ich die Rechnung auch anhand der Programme die wir gemacht haben. Es ist noch nicht perfekt aber es erfüllt erstmal seinen Zweck.
+- Heute kam ich auch auf die Ideen noch weitere Sachen hinzuzufügen wie Koffe, Sitzplatz Auswahl etc..
+- Heute habe ich auch gelernt wie man weitere Klassen im selben Program macht und nun muss ich lernen diese zu verbinden.
+- Zum Ende des Tages verbrachte ich es damit zu überlegen und zu probieren wie ich das mit den Wetterbericht machen könnte.
+-------------------------------------------------------------
+# Tag 3 
+- Heute ist der Tag wo ich mich der Dokumentation gewidmet habe. Ich habe gelernt das man über ReadMe auch schreiben und dokumentieren kann.
+- Paar Befehle habe ich heraus gefunden mal schauen was sich noch alles finden lässt.
+- Nun gegen Ende des Tages wird noch etwas programmiert und geforscht wie man vielleicht etwas machen kann.
+-
+-------------------------------------------------------------
+Tag 4
+-
