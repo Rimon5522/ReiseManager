@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ReiseProgramm
+﻿namespace ReiseProgramm
 {
     class Reise
     {
