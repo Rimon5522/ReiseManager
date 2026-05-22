@@ -30,3 +30,4 @@ Tag 4
 - Diesbezüglich habe ich etwas herum experiementiert und habe versucht das zu progrmmieren.
 - Leider muss ich mir noch was dazu überlegen wie ich das mache, ich nehme evebtuell etwas Hilfe von einer KI.
 - Zudem habe ich paar Korrekturen erledigt in meinen Programm.
+- -------------------------------------------------------------
