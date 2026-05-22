@@ -26,4 +26,7 @@
 - Zudem habe ich hinzugefügt ob man Handgepäck dabei hat und oder ein Koffer und falls ja, dass dieses zur Rechnung dazu addiert wird.
 -------------------------------------------------------------
 Tag 4
--
+- Heute habe ich viel recherchiert wie ich das mache mit den Wetterbericht. Ich möchte ja hinzufügen dass das Programm mir sagt zu welcher Buchungszeit ich was für ein Wetter habe.
+- Diesbezüglich habe ich etwas herum experiementiert und habe versucht das zu progrmmieren.
+- Leider muss ich mir noch was dazu überlegen wie ich das mache, ich nehme evebtuell etwas Hilfe von einer KI.
+- Zudem habe ich paar Korrekturen erledigt in meinen Programm.
