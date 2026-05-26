@@ -11,6 +11,7 @@
             PreisProPerson = preis;
         }
     }
+
     class Program
     {
         static void Main(string[] args)
@@ -67,7 +68,6 @@
             Console.Write("Gib deine E-Mail ein: ");
             email = Console.ReadLine() ?? "";
 
-
             Console.WriteLine("\n==============================");
             Console.WriteLine("       DEINE DATEN");
             Console.WriteLine("==============================");
@@ -76,7 +76,6 @@
             Console.WriteLine($"Nachname: {lastName}");
             Console.WriteLine($"Alter: {age}");
             Console.WriteLine($"E-Mail: {email}");
-
 
             List<Reise> reisen = new List<Reise>()
             {
@@ -98,32 +97,38 @@
 
             Console.Write("\nWelches Land möchtest du buchen? (1-3): ");
 
-            while (!int.TryParse(Console.ReadLine(), out auswahl) || auswahl < 1 || auswahl > 3)
+            while (!int.TryParse(Console.ReadLine(), out auswahl)
+                   || auswahl < 1
+                   || auswahl > 3)
             {
                 Console.Write("Bitte gib eine gültige Zahl zwischen 1 und 3 ein: ");
             }
 
             Reise gewaehlteReise = reisen[auswahl - 1];
+            Console.Clear();
 
-            Console.Write("Von wann reist du? ");
-            string vonDatum = Console.ReadLine();
+            Console.Write("Von wann reist du? (dd.MM.yyyy): ");
+            DateTime vonDatum = DateTime.Parse(Console.ReadLine());
 
-            Console.Write("Bis wann reist du? ");
-            string bisDatum = Console.ReadLine();
+            Console.Write("Bis wann reist du? (dd.MM.yyyy): ");
+            DateTime bisDatum = DateTime.Parse(Console.ReadLine());
 
             int personenAnzahl;
 
-            Console.Write("Wie viele Personen reisen mit? ");
+            Console.Write("Wie viele Personen reisen mit? (max. 5): ");
 
-            while (!int.TryParse(Console.ReadLine(), out personenAnzahl) || personenAnzahl <= 0)
+            while (!int.TryParse(Console.ReadLine(), out personenAnzahl)
+                   || personenAnzahl <= 0
+                   || personenAnzahl > 5)
             {
-                Console.Write("Bitte gib eine gültige Anzahl ein: ");
+                Console.Write("Bitte gib eine Anzahl zwischen 1 und 5 ein: ");
             }
+
+            Console.Clear();
 
             double gesamtPreis = 0;
 
             List<string> personenInfos = new List<string>();
-            Console.Clear();
 
             string[] sitzplaetze =
             {
@@ -134,7 +139,6 @@
             };
 
             List<string> belegtePlaetze = new List<string>();
-
 
             for (int i = 1; i <= personenAnzahl; i++)
             {
@@ -162,7 +166,6 @@
                     rabattInfo = "10% Rabatt";
                 }
 
-
                 Console.Write("Handgepäck dabei? (ja/nein): ");
                 string handgepaeck = Console.ReadLine().ToLower();
 
@@ -177,34 +180,34 @@
                     kofferInfo = "1 großer Koffer";
                 }
 
-
                 List<string> freiePlaetze = new List<string>();
 
-                while (freiePlaetze.Count < 2)
+                foreach (string platz in sitzplaetze)
                 {
-                    string platz = sitzplaetze[random.Next(sitzplaetze.Length)];
-
-                    if (!belegtePlaetze.Contains(platz) && !freiePlaetze.Contains(platz))
+                    if (!belegtePlaetze.Contains(platz))
                     {
                         freiePlaetze.Add(platz);
                     }
                 }
 
                 Console.WriteLine("\nFreie Sitzplätze:");
-                Console.WriteLine($"1. {freiePlaetze[0]}");
-                Console.WriteLine($"2. {freiePlaetze[1]}");
+
+                for (int j = 0; j < freiePlaetze.Count; j++)
+                {
+                    Console.WriteLine($"{j + 1}. {freiePlaetze[j]}");
+                }
 
                 int sitzAuswahl;
 
-                Console.Write("Welchen Sitzplatz möchtest du? (1 oder 2): ");
+                Console.Write("\nWelchen Sitzplatz möchtest du wählen?: ");
 
                 while (!int.TryParse(Console.ReadLine(), out sitzAuswahl)
-                    || sitzAuswahl < 1
-                    || sitzAuswahl > 2)
+                       || sitzAuswahl < 1
+                       || sitzAuswahl > freiePlaetze.Count)
                 {
-                    Console.Write("Bitte nur 1 oder 2 eingeben: ");
+                    Console.Write("Bitte eine gültige Nummer eingeben: ");
                 }
-                Console.Clear();
+
                 string gewaehlterSitz = freiePlaetze[sitzAuswahl - 1];
 
                 belegtePlaetze.Add(gewaehlterSitz);
@@ -214,28 +217,67 @@
                 personenInfos.Add(
                     $"Name: {name} | Alter: {alter} | Sitzplatz: {gewaehlterSitz} | Gepäck: {kofferInfo} | Preis: {preis} Euro | {rabattInfo}"
                 );
+
+                Console.Clear();
             }
 
-            Console.WriteLine("\n=================================");
-            Console.WriteLine("            RECHNUNG");
-            Console.WriteLine("=================================");
+            Console.Clear();
 
-            Console.WriteLine($"Reiseziel: {gewaehlteReise.Land}");
-            Console.WriteLine($"Zeitraum: {vonDatum} bis {bisDatum}");
-            Console.WriteLine($"Personenanzahl: {personenAnzahl}");
+            Console.WriteLine("=================================================");
+            Console.WriteLine("                REISEÜBERSICHT");
+            Console.WriteLine("=================================================");
 
-            Console.WriteLine("\n--------- PERSONEN ---------");
+            Console.WriteLine($"Reiseziel     : {gewaehlteReise.Land}");
+            Console.WriteLine($"Zeitraum      : {vonDatum:dd.MM.yyyy} bis {bisDatum:dd.MM.yyyy}");
+            Console.WriteLine($"Personenzahl  : {personenAnzahl}");
+
+            Console.WriteLine("\n=================================================");
+            Console.WriteLine("                 WETTERBERICHT");
+            Console.WriteLine("=================================================");
+
+            string[] wetterArten =
+            {
+    "Sonnig",
+    "Leicht bewölkt",
+    "Regnerisch",
+    "Warm",
+    "Windig"
+};
+
+            DateTime aktuellerTag = vonDatum;
+
+            while (aktuellerTag <= bisDatum)
+            {
+                int temperatur = random.Next(15, 35);
+
+                string wetter = wetterArten[random.Next(wetterArten.Length)];
+
+                Console.WriteLine(
+                    $"{aktuellerTag,-25:dddd, dd.MM.yyyy} {temperatur,-5}°C | {wetter}"
+                );
+
+                aktuellerTag = aktuellerTag.AddDays(1);
+            }
+
+            Console.WriteLine("\n=================================================");
+            Console.WriteLine("                  RECHNUNG");
+            Console.WriteLine("=================================================");
+
+            Console.WriteLine("\n---------------- PERSONEN ----------------");
 
             foreach (string info in personenInfos)
             {
                 Console.WriteLine(info);
             }
 
-            Console.WriteLine("\n=================================");
+            Console.WriteLine("\n=================================================");
             Console.WriteLine($"GESAMTPREIS: {gesamtPreis} Euro");
-            Console.WriteLine("=================================");
+            Console.WriteLine("=================================================");
+
+
             Console.WriteLine("\nVielen Dank für deine Buchung!");
             Console.WriteLine("Wir wünschen eine schöne Reise!");
+
             Console.ReadKey();
         }
     }
