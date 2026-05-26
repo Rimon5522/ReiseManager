@@ -25,9 +25,18 @@
 - Eben habe ich das mit der Sitzwahl Auswahl erledigt auch mit etwas Hilfe von Chat gpt weil ich nicht heraus gefunden habe wie man dafür sorgt das der eine Sitzplatz nicht mehr angezeigt werden soll.
 - Zudem habe ich hinzugefügt ob man Handgepäck dabei hat und oder ein Koffer und falls ja, dass dieses zur Rechnung dazu addiert wird.
 -------------------------------------------------------------
-Tag 4
+# Tag 4
 - Heute habe ich viel recherchiert wie ich das mache mit den Wetterbericht. Ich möchte ja hinzufügen dass das Programm mir sagt zu welcher Buchungszeit ich was für ein Wetter habe.
 - Diesbezüglich habe ich etwas herum experiementiert und habe versucht das zu progrmmieren.
-- Leider muss ich mir noch was dazu überlegen wie ich das mache, ich nehme evebtuell etwas Hilfe von einer KI.
+- Leider muss ich mir noch was dazu überlegen wie ich das mache, ich nehme eventuell etwas Hilfe von einer KI.
 - Zudem habe ich paar Korrekturen erledigt in meinen Programm.
-- -------------------------------------------------------------
+-------------------------------------------------------------
+# Tag 5
+- Frisch aus den Wochenende startete ich sofort weiter mit den Wetterbericht. Hierzu habe ich heute etwas Hilfe von der Ki genommen weil ich aus eigener Stärke nicht mehr weiter gekommen bin.
+- Jedoch habe ich es mir erklären lasssen und ich verstehe es einigermaßen. Doch von alleine wäre ich niemals drauf gekommen.
+- Dann habe ich etwas an der Reihenfolge umgeändert im Programm und habe einige Console.Clear(); hinzugefügt. Damit es schöner aussieht.
+- Die Console.Clear habe ich öfters falsch eingesetzt, welches das Programm dann so auch angezeigt hat. Immer da wo ich dachte hier wäre es richtig war es dies nicht.
+- Da habe ich am Ende auch eine Ki gefragt wo man diese Commands den Einsetzen sollte.
+- Zudem arbeite ich heute noch an der Dokumentation.
+--------------------------------------------------------------
+  
