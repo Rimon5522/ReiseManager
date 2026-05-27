@@ -7,6 +7,9 @@
 - Gerne würde ich im Programm ein Loggin haben zum anmelden. Dann eine Personen Abfrage. Zudem soll gefragt werden anhand von drei festgelegten Reisezielen, welches man aussuchen möchte. Dann soll gefragt werden wie viele Personen mitkommen sollten und wie alt diese Personen seien. Da ich auch etwas einbauen möchte wie zum Beispiel Rabatt für unter 18 Jährige. Im Anschluss soll eine Rechnung erstellt werden anhand wieviele Personen fliegen.
 - Gerne würde ich dazu auch hinzufügen ob man Reisegepäck oder Koffer dabei hat was dazu addiert wird. Ein Wetterbericht für den Zeitraum wo man fliegt soll auch angegeben werden. Zudem eventuell die Auswahl an einer Sitzmöglichkeit oder Zuweisung der Flugsitzplätze.
 ---------------------------------------------------------------
+# Class Diagram
+![Class Diagram](Dokumente/Klassen-Diagram.png)
+---------------------------------------------------------------
 # Tag 1 
 - Der erste Tag war schwierig, da ich mich um den halben Tag bemüht habe das Github einzurichten. Es war eine Fehlermeldung da die ich leider nicht wegbekommen habe. Über Visual Studio wollte ich mich mal austesten und habe es mit den Git verbunden was sich am Ende als Fehler herausgestellt hat. Also bekam ich Hilfe von den Kollgen aus der Gruppe, die eine Stunde Zeit mit mir investiert haben wofür ich Ihnen sehr dankbar bin. Denselben Fehler wieder entfernen würde ich ein zweites mal alleine bedenklich nicht alleine schaffen.
 - Jetzt konnte ich anfangen zu programmieren. Also fing ich mit den an was ich einigermaßen beherrscht habe. Das loggin habe ich eingerichtet, die Personenabfrage erstellt. Da ich noch etwas Grün hinter den Ohren bin und ich das als Lernphase zum üben ausnutze, übte ich und gab mein bestes.
