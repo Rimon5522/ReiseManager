@@ -7,7 +7,7 @@
 - Gerne würde ich im Programm ein Loggin haben zum anmelden. Dann eine Personen Abfrage. Zudem soll gefragt werden anhand von drei festgelegten Reisezielen, welches man aussuchen möchte. Dann soll gefragt werden wie viele Personen mitkommen sollten und wie alt diese Personen seien. Da ich auch etwas einbauen möchte wie zum Beispiel Rabatt für unter 18 Jährige. Im Anschluss soll eine Rechnung erstellt werden anhand wieviele Personen fliegen.
 - Gerne würde ich dazu auch hinzufügen ob man Reisegepäck oder Koffer dabei hat was dazu addiert wird. Ein Wetterbericht für den Zeitraum wo man fliegt soll auch angegeben werden. Zudem eventuell die Auswahl an einer Sitzmöglichkeit oder Zuweisung der Flugsitzplätze.
 ---------------------------------------------------------------
-# Class Diagram
+# Klassen Diagram
 ![Class Diagram](Dokumente/Klassen-Diagram.png) 
 
 ----------------------------------------------------------------
