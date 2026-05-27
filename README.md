@@ -34,6 +34,8 @@
 - Diesbezüglich habe ich etwas herum experiementiert und habe versucht das zu progrmmieren.
 - Leider muss ich mir noch was dazu überlegen wie ich das mache, ich nehme eventuell etwas Hilfe von einer KI.
 - Zudem habe ich paar Korrekturen erledigt in meinen Programm.
+- Dokumentation erweitert
+- strg a, strgc, strgv, strg k+d, alt pfeil nach oben gelernt
 -------------------------------------------------------------
 # Tag 5
 - Frisch aus den Wochenende startete ich sofort weiter mit den Wetterbericht. Hierzu habe ich heute etwas Hilfe von der Ki genommen weil ich aus eigener Stärke nicht mehr weiter gekommen bin.
@@ -43,4 +45,46 @@
 - Da habe ich am Ende auch eine Ki gefragt wo man diese Commands den Einsetzen sollte.
 - Zudem arbeite ich heute noch an der Dokumentation.
 --------------------------------------------------------------
-  
+# Tag 6
+- Heute habe ich viel weiteres im Programm gemacht und programmiert.
+- Klassen wurden erstellt
+- Diagram wurde erstellt
+- Farben wurden hinzugefügt
+- Piep Töne wurden hinzugefügt beim loggim
+- Loggin wurde umgeändert auf Benutzerkonto erstellen und eigenes Passwort erstellen
+- Sitzplätze Auswahl wurde angepasst
+- Gate generieren zugefügt
+- Flugnummer hinzugefügt
+- Zudem wurde in Read Me das Diagram hinzugefügt
+- Fehler ausgebessert
+- Struktur angepasst
+- Zum Schluss fülle ich die Dokumentation noch auf und dann sollte alles bereit zur Abgabe sein.
+-------------------------------------------------------------------
+# Programme die ich benutzt habe
+- Visual Studio
+- Github
+- Lerninhalte der letzten Zeit
+- Chatgpt
+- Mermaid Ai
+-------------------------------------------------------------------
+# Struktur
+ReiseProgramm/
+
+├── Program.cs
+
+├── Reise.cs
+
+├── Benutzer.cs
+
+├── FlugInfo.cs
+
+├── Wetterbericht.cs
+
+├── Rechnung.cs
+
+└── SitzplatzSystem.cs
+
+-----------------------------------------------------------------------
+# Lernprogress
+- Ich durfte durch dieses Projekt viel lernen was ich kann und was ich nicht kann. Vieles neues habe ich dazu gelernt. Beispielsweise wie man Farben umändert oder wie eine einzige Zeile ein Piep Geräusch erzeugen kann. Dies ist echt besonders für mich. Ich denke ich hätte vieles selber nicht zuende bringen können. Doch durch die Hilfe die ich bekommen habe war alles andere auch möglich. Das schöne dran ist, dass man sich auch alles erklären lassen kann. Es ist sehr viel neues Input für jemanden der frisch dabei ist aber ich denke das ist wie Fahrrad fahren oder seine eigene Muttersprache kennen lernen. Das braucht alles Zeit, Geduld und viel Übung. Ich hoffe, dass ich die Aufgabe erfüllt habe und freue mich auf die Bewertung und Verbesserungsvorschläge.
+------------------------------------------------------------------------
