@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|c:\\users\\rimonhamid\\onedrive - lg-academy\\rimons c# erste erfahrung\\reisemanager\\reisemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|solutionrelative:reisemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|c:\\users\\rimonhamid\\onedrive - lg-academy\\rimons c# erste erfahrung\\reisemanager\\reisemanager\\reise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|solutionrelative:reisemanager\\reise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|c:\\users\\rimonhamid\\onedrive - lg-academy\\rimons c# erste erfahrung\\reisemanager\\reisemanager\\sitzplatzsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|solutionrelative:reisemanager\\sitzplatzsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|c:\\users\\rimonhamid\\onedrive - lg-academy\\rimons c# erste erfahrung\\reisemanager\\reisemanager\\wetterbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|solutionrelative:reisemanager\\wetterbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|c:\\users\\rimonhamid\\onedrive - lg-academy\\rimons c# erste erfahrung\\reisemanager\\reisemanager\\benutzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|solutionrelative:reisemanager\\benutzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|c:\\users\\rimonhamid\\onedrive - lg-academy\\rimons c# erste erfahrung\\reisemanager\\reisemanager\\fluginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|solutionrelative:reisemanager\\fluginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|c:\\users\\rimonhamid\\onedrive - lg-academy\\rimons c# erste erfahrung\\reisemanager\\reisemanager\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECC3993-2E02-4F91-86CA-CCB8FF0A4594}|ReiseManager\\ReiseManager.csproj|solutionrelative:reisemanager\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +62,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SitzplatzSystem.cs",
+              "DocumentMoniker": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\SitzplatzSystem.cs",
+              "RelativeDocumentMoniker": "ReiseManager\\SitzplatzSystem.cs",
+              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\SitzplatzSystem.cs",
+              "RelativeToolTip": "ReiseManager\\SitzplatzSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:05:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rechnung.cs",
+              "DocumentMoniker": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Rechnung.cs",
+              "RelativeDocumentMoniker": "ReiseManager\\Rechnung.cs",
+              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Rechnung.cs",
+              "RelativeToolTip": "ReiseManager\\Rechnung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:04:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wetterbericht.cs",
+              "DocumentMoniker": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Wetterbericht.cs",
+              "RelativeDocumentMoniker": "ReiseManager\\Wetterbericht.cs",
+              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Wetterbericht.cs",
+              "RelativeToolTip": "ReiseManager\\Wetterbericht.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:03:17.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fluginfo.cs",
+              "DocumentMoniker": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Fluginfo.cs",
+              "RelativeDocumentMoniker": "ReiseManager\\Fluginfo.cs",
+              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Fluginfo.cs",
+              "RelativeToolTip": "ReiseManager\\Fluginfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:02:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Benutzer.cs",
+              "DocumentMoniker": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Benutzer.cs",
+              "RelativeDocumentMoniker": "ReiseManager\\Benutzer.cs",
+              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Benutzer.cs",
+              "RelativeToolTip": "ReiseManager\\Benutzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:01:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reise.cs",
+              "DocumentMoniker": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Reise.cs",
+              "RelativeDocumentMoniker": "ReiseManager\\Reise.cs",
+              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Reise.cs",
+              "RelativeToolTip": "ReiseManager\\Reise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:59:11.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Program.cs",
               "RelativeDocumentMoniker": "ReiseManager\\Program.cs",
-              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Program.cs*",
-              "RelativeToolTip": "ReiseManager\\Program.cs*",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAowBkBAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\RimonHamid\\OneDrive - LG-Academy\\Rimons C# erste Erfahrung\\ReiseManager\\ReiseManager\\Program.cs",
+              "RelativeToolTip": "ReiseManager\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T12:58:49.456Z",
               "EditorCaption": ""
