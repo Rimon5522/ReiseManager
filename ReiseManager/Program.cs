@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-
-namespace ReiseProgramm
+﻿namespace ReiseProgramm
 {
     class Program
     {
