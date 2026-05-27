@@ -60,14 +60,14 @@
 - Struktur angepasst
 - Zum Schluss fülle ich die Dokumentation noch auf und dann sollte alles bereit zur Abgabe sein.
 -------------------------------------------------------------------
-# Programme die ich benutzt habe
+## Programme die ich benutzt habe
 - Visual Studio
 - Github
 - Lerninhalte der letzten Zeit
 - Chatgpt
 - Mermaid Ai
 -------------------------------------------------------------------
-# Struktur
+## Struktur
 ReiseProgramm/
 
 ├── Program.cs
@@ -85,6 +85,6 @@ ReiseProgramm/
 └── SitzplatzSystem.cs
 
 -----------------------------------------------------------------------
-# Lernprogress
+## Lernprogress
 - Ich durfte durch dieses Projekt viel lernen was ich kann und was ich nicht kann. Vieles neues habe ich dazu gelernt. Beispielsweise wie man Farben umändert oder wie eine einzige Zeile ein Piep Geräusch erzeugen kann. Dies ist echt besonders für mich. Ich denke ich hätte vieles selber nicht zuende bringen können. Doch durch die Hilfe die ich bekommen habe war alles andere auch möglich. Das schöne dran ist, dass man sich auch alles erklären lassen kann. Es ist sehr viel neues Input für jemanden der frisch dabei ist aber ich denke das ist wie Fahrrad fahren oder seine eigene Muttersprache kennen lernen. Das braucht alles Zeit, Geduld und viel Übung. Ich hoffe, dass ich die Aufgabe erfüllt habe und freue mich auf die Bewertung und Verbesserungsvorschläge.
 ------------------------------------------------------------------------
