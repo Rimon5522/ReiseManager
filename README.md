@@ -50,7 +50,7 @@
 - Klassen wurden erstellt
 - Diagram wurde erstellt
 - Farben wurden hinzugefügt
-- Piep Töne wurden hinzugefügt beim loggim
+- Piep Töne wurden hinzugefügt beim Loggin
 - Loggin wurde umgeändert auf Benutzerkonto erstellen und eigenes Passwort erstellen
 - Sitzplätze Auswahl wurde angepasst
 - Gate generieren zugefügt
