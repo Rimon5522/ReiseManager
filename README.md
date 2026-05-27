@@ -35,7 +35,7 @@
 - Leider muss ich mir noch was dazu überlegen wie ich das mache, ich nehme eventuell etwas Hilfe von einer KI.
 - Zudem habe ich paar Korrekturen erledigt in meinen Programm.
 - Dokumentation erweitert
-- strg a, strgc, strgv, strg k+d, alt pfeil nach oben gelernt
+- strg a, strg c, strg v, strg k+d, alt pfeil nach oben gelernt
 -------------------------------------------------------------
 # Tag 5
 - Frisch aus den Wochenende startete ich sofort weiter mit den Wetterbericht. Hierzu habe ich heute etwas Hilfe von der Ki genommen weil ich aus eigener Stärke nicht mehr weiter gekommen bin.
